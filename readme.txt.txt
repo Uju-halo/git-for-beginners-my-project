@@ -1,6 +1,6 @@
 Welcome to Myproject!
 
-Author: Thomas 
+Author: Uju Shalom Anagwonye
 
 
 Twitter: @halo_uju
